@@ -1,0 +1,8 @@
+
+Step 9.1: Set Up Next.js
+
+        (4) Add Tailwind to global styles (styles/globals.css)
+
+		@tailwind base;
+		@tailwind components;
+		@tailwind utilities;

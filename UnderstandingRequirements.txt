@@ -1,0 +1,12 @@
+
+ Step 1: Understanding the Requirements
+
+         For that, we need to:
+
+        (1) Monitor Solana blockchain transactions.
+
+        (2) Identify new wallets buying a specific token for the first time.
+
+        (3) Check if they have extra Solana left after the purchase.
+
+        (4) Send alerts (e.g., Telegram, Discord, Email) when a potential buyer is found.

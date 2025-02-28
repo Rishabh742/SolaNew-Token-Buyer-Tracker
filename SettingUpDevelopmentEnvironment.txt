@@ -1,0 +1,18 @@
+
+ Step 2: Setting Up the Development Environment
+
+          Tools & Technologies
+
+            (a) Python (Backend logic)
+
+            (b) Solana RPC API (To fetch transactions)
+
+            (c) Web3.py / Solana.py (For blockchain interaction)
+
+            (d) PostgreSQL / SQLite (Optional, for storing buyer data)
+
+            (e) Telegram/Discord API (For notifications)
+
+            Install Dependencies:
+
+             pip install requests solana web3 psycopg2 python-telegram-bot discord
